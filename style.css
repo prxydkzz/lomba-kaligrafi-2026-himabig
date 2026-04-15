@@ -78,7 +78,7 @@ body {
   position: absolute;
   width: 70%;
   height: 70%;
-  background: url('assets/logo 3.png') no-repeat center;
+  background: url('logo 3.png') no-repeat center;
   background-size: contain;
 
   opacity: 0.15; /* transparan */
