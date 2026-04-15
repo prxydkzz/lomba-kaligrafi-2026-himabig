@@ -731,9 +731,25 @@ button {
   p  { font-size: 14px; }
 
   /* cover */
-  .cover-text h1 { font-size: 20px; }
-  .cover-text h2 { font-size: 24px; }
-  .cover-text h3 { font-size: 16px; }
+/* cover (LEBIH BESAR) */
+.cover-text h1 { 
+  font-size: 6vw; 
+  letter-spacing: 2px;
+}
+
+.cover-text h2 { 
+  font-size: 10vw; /* PALING BESAR */
+  font-weight: bold;
+}
+
+.cover-text h3 { 
+  font-size: 5vw;
+  margin-top: 15px;
+}
+
+.cover-text p {
+  font-size: 4.5vw;
+}
 
   /* logo */
   .logo {
@@ -764,3 +780,4 @@ button {
   }
 
 }
+
