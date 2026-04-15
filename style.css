@@ -731,25 +731,9 @@ button {
   p  { font-size: 14px; }
 
   /* cover */
-/* cover (LEBIH BESAR) */
-.cover-text h1 { 
-  font-size: 6vw; 
-  letter-spacing: 2px;
-}
-
-.cover-text h2 { 
-  font-size: 10vw; /* PALING BESAR */
-  font-weight: bold;
-}
-
-.cover-text h3 { 
-  font-size: 5vw;
-  margin-top: 15px;
-}
-
-.cover-text p {
-  font-size: 4.5vw;
-}
+  .cover-text h1 { font-size: 20px; }
+  .cover-text h2 { font-size: 24px; }
+  .cover-text h3 { font-size: 16px; }
 
   /* logo */
   .logo {
@@ -781,3 +765,38 @@ button {
 
 }
 
+.rapi-list {
+  text-align: left;
+  margin-top: 15px;
+  padding-left: 20px;
+}
+
+.rapi-list li {
+  margin-bottom: 10px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.rapi-list {
+  text-align: left;
+  margin-top: 15px;
+  padding-left: 20px;
+}
+
+.rapi-list li {
+  margin-bottom: 10px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.rapi-list {
+  text-align: left;
+  margin-top: 15px;
+  padding-left: 20px;
+}
+
+.rapi-list li {
+  margin-bottom: 10px;
+  font-size: 14px;
+  line-height: 1.5;
+}
